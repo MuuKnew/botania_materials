@@ -20,8 +20,8 @@
     ],
     "traits": [
         {"name": "silentgear:magmatic", "level": 1},
-        {"name": "silentgear:malleable", "level": 1}
-		{"name": "silentgear:stellar", "level": 2}
+        {"name": "silentgear:malleable", "level": 1},
+	{"name": "silentgear:stellar", "level": 2}
     ],
     "crafting_items": {
         "normal": {
