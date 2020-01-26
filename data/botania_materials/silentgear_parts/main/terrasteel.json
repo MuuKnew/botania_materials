@@ -20,8 +20,8 @@
     ],
     "traits": [
         {"name": "silentgear:stellar", "level": 3},
-        {"name": "silentgear:ancient", "level": 3}
-		{"name": "silentgear:malleable", "level": 3}
+        {"name": "silentgear:ancient", "level": 3},
+	{"name": "silentgear:malleable", "level": 3}
     ],
     "crafting_items": {
         "normal": {
