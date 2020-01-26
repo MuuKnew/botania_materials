@@ -14,8 +14,8 @@
         {"name": "rarity",            "value":   10}
     ],
     "traits": [
-        {"name": "silentgear:ancient", "level": 2}
-		{"name": "silentgear:synergistic", "level": 2}
+        {"name": "silentgear:ancient", "level": 2},
+	{"name": "silentgear:synergistic", "level": 2}
     ],
     "crafting_items": {
         "normal": {
